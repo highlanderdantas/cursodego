@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"cursodego/fundamentos/erro/model"
+	"github.com/highlanderdantas/cursodego/fundamentos/erro/model"
 )
 
 func main() {

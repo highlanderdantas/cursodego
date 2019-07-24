@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"cursodego/intermediario/escrever_arquivos/model"
+	"github.com/highlanderdantas/cursodego/intermediario/escrever_arquivos/model"
 )
 
 func main() {

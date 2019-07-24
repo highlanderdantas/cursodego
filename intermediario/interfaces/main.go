@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"cursodego/intermediario/interfaces/model"
+	"github.com/highlanderdantas/cursodego/intermediario/interfaces/model"
 )
 
 func queroAcordarComUmCacarejo(g model.Galinha) {

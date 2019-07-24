@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"cursodego/intermediario/gobuild/model"
+	"github.com/highlanderdantas/cursodego/intermediario/gobuild/model"
 )
 
 /*

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"cursodego/fundamentos/structs_avancado/model"
+	"github.com/highlanderdantas/cursodego/fundamentos/structs_avancado/model"
 )
 
 func main() {

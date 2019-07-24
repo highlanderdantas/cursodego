@@ -1,8 +1,9 @@
 package main
 
 import (
-	"cursodego/fundamentos/funcoes_avancado/matematica"
 	"fmt"
+
+	"github.com/highlanderdantas/cursodego/fundamentos/funcoes_avancado/matematica"
 )
 
 func main() {

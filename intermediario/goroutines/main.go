@@ -12,7 +12,7 @@ import (
 
 	"sync"
 
-	"cursodego/intermediario/escrever_arquivos/model"
+	"github.com/highlanderdantas/cursodego/intermediario/escrever_arquivos/model"
 )
 
 var orquestrador sync.WaitGroup

@@ -3,8 +3,9 @@ package main
 //funcoes_basico
 
 import (
-	"cursodego/fundamentos/funcoes_basica/matematica"
 	"fmt"
+
+	"github.com/highlanderdantas/cursodego/fundamentos/funcoes_basica/matematica"
 )
 
 func main() {
